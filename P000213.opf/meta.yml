@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་མན་ངག་གསལ་བྱེད་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+    །།
+  authors:
+  - མཛད་པ་པོ། སློབ་དཔོན་ལུང་རིགས།
+  sku: LEK-PHI-119
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - sabche
+web_metadata:
+  title:
+    en: A Lamp Illuminating the Pith Instructions of Manjushrinamasamgiti
+    bo: འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་མན་ངག་གསལ་བྱེད་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Philosophy Series–  Book 119
+    bo: ལེགས་བཤད་གླིང་རིགས་པའི་གཞུང་ལུགས།–  དེབ། ༡༡༩
+  author:
+    en: Lopon Lungrig
+    bo: སློབ་དཔོན་ལུང་རིགས།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-PHI-119
+  category:
+    en: Uncategorized
+    bo: Uncategorized @tib
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-PHI-119.epub
+  description:
+    en: ''
+    bo: ''
