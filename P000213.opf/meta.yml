@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000213
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །འཕགས་པ་འཇམ་དཔལ་གྱི་མཚན་ཡང་དག་པར་བརྗོད་པའི་མན་ངག་གསལ་བྱེད་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།།
     །།
   authors:
   - མཛད་པ་པོ། སློབ་དཔོན་ལུང་རིགས།
-  sku: LEK-PHI-119
   layers:
   - book_title
   - author
   - chapter_title
   - tsawa
   - sabche
+  id: LEK-PHI-119
 web_metadata:
   title:
     en: A Lamp Illuminating the Pith Instructions of Manjushrinamasamgiti
